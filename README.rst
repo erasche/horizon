@@ -51,4 +51,3 @@ The source is maintained in the ``doc/source`` directory using
     $ tools/with_venv.sh sphinx-build doc/source doc/build/html
 
 Results are in the ``doc/build/html`` directory
-
